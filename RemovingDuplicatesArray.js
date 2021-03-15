@@ -1,4 +1,5 @@
 // Removing duplicates from an array which is containing number, strings and booleans
+// To Remove Duplicates : Convert Array into Set
 const array = [1, 2, 3, 2, 1, true, true, false, "Prasanna", 1, 5, "Prasanna"];
 
 const filtered__array = [new Set(array)];
