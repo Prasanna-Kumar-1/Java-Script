@@ -2,15 +2,15 @@
 
 // const numerator = 1000, denominator = 'a'
 
-// try {
-//     console.log(numerator / denominator);
-//     console.log(a);
-// } catch (err) {
-//     console.log('An error caught!');
-//     console.log('Error Message is :' + err);
-// } finally {
-//     console.log('Finally Block! This is always executed');
-// }
+try {
+  console.log(numerator / denominator);
+  console.log(a);
+} catch (err) {
+  console.log('An error caught!');
+  console.log('Error Message is :' + err);
+} finally {
+  console.log('Finally Block! This is always executed');
+}
 
 // finally and return
 
