@@ -10,5 +10,3 @@ const greeterHey = greet('Hey');
 // function greet here retunns a new function and we store it in constant
 
 greeterHey('Prasanna');
-
-// using Arrow functions
